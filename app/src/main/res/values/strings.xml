@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CopyPasteText</string>
+    <string name="tulisan_yang_akan_di_copy">Tulisan Yang Akan Di Copy</string>
+    <string name="copy_text">Copy Text</string>
+    <string name="paste_text_di_si_ni">Paste Text Di sini</string>
+    <string name="paste_text_di_sini">Paste Text Di Sini</string>
+</resources>
